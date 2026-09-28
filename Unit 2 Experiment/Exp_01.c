@@ -1,4 +1,4 @@
-//Programs(10)->write a program that demonstrates the order of execution of operators in expersion 
+//write a program that demonstrates the order of execution of operators in expersion 
 
 #include <stdio.h>
 int main()
