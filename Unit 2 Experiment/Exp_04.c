@@ -1,4 +1,4 @@
-/*Program(13)-> write a program using the switch case statement to create a
+/*write a program using the switch case statement to create a
 menu driven calculator that repeatedly performs arithmetic operation unit the 
 users exist the program. */
  
