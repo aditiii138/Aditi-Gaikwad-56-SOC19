@@ -1,4 +1,4 @@
-/* Program (14) -> Write a program to generate the multiplication 
+/*Write a program to generate the multiplication 
 table of any number using while loop, do while loop and for loop.
 Solution (1) : Using while loop */
 
