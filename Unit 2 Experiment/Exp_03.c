@@ -1,4 +1,4 @@
-//Program (12)-> write a program to determine whether a given number is postive,negative,or zero
+//write a program to determine whether a given number is postive,negative,or zero
 
 #include <stdio.h>
 int main()
